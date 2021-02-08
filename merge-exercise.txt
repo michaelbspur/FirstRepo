@@ -1,1 +1,2 @@
 Adding more text within my file from merge-conflict
+putting more text into my file from the master branch
